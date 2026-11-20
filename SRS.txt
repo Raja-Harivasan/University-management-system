@@ -1,0 +1,6 @@
+In this file I am writing all the functional and non-functional requirements of the SRS document
+Functional Requirements
+1. Login page
+2. Placement Portal
+3. Timetable page
+4. Attendance sheet
