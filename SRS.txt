@@ -4,3 +4,8 @@ Functional Requirements
 2. Placement Portal
 3. Timetable page
 4. Attendance sheet
+
+Non-Functional Requirements
+1. Security
+2. Scalability
+3. Networking
